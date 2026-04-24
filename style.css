@@ -1,0 +1,6 @@
+/* Change background color on hover */
+.navbar a:hover {
+  background-color: #119e5c;
+  color: black;
+  border-radius: 20%;
+}
